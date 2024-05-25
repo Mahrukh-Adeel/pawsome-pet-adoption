@@ -1,0 +1,56 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : May 23, 2024, 7:21:29 PM
+    Author     : Mkh_A
+*/
+
+.box {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    background-color: rgb(126, 218, 255);
+    padding: 60px;
+    padding-inline: 28px;
+    border-radius: 20px;
+    box-shadow: 4px 4px rgb(0, 2, 65);
+    font-family: cursive;
+    position: absolute; /* Make the form absolutely positioned */
+  top: 60%; /* Position the top edge at 50% of the viewport height */
+  left: 50%; /* Position the left edge at 50% of the viewport width */
+  transform: translate(-50%, -50%);
+  }
+  
+  .heading {
+    font-size: 25px;
+    text-align: center;
+    font-weight: 600;
+    font-family: cursive;
+  }
+  
+ .a-btn {
+  font-family: monospace;
+  font-size: 1.5rem;
+  color: white;
+  text-transform: uppercase;
+  padding: 10px 20px;
+  border-radius: 10px;
+  border: 2px solid black;
+  background: #8EC5FC;
+  box-shadow: 3px 3px black;
+  cursor: pointer;
+  margin: 35px 0;
+}
+
+.a-btn:active {
+  box-shadow: none;
+  transform: translate(3px, 3px);
+}
+
+.btns{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
