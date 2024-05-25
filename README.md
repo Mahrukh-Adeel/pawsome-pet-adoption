@@ -13,8 +13,6 @@ This user-friendly web application, built with Java, simplifies the pet adoption
 - Create accounts to manage your pet adoption journey.
 - View your adopted pets and potentially express interest in returning a pet.
 
-### Optional Shelter Management: (Requires further development)
-- Empower shelters to manage pet details seamlessly by adding, updating, and marking pets as adopted.
 
 ## Technologies Used
 - **Server-Side Logic:** Java Servlets
