@@ -36,6 +36,11 @@ We welcome contributions from the developer community! Here are some ways you ca
 *   Add new features to enhance functionality and user experience.
 *   Improve the user interface by making it more visually appealing and user-friendly.
 
+### Acknowledgements
+
+Special thanks to [Sara Khan](https://github.com/SaraKhan-24) for their valuable contributions to the development of the Java Servlet in this project.
+
+
 ### License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
