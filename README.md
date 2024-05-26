@@ -17,7 +17,7 @@ This user-friendly web application, built with Java, simplifies the pet adoption
 ## Technologies Used
 - **Server-Side Logic:** Java Servlets
 - **Dynamic Web Pages:** JSP
-- **Database:** MySQL (or similar) for storing pet and user information
+- **Database:** MySQL for storing pet and user information
 - **User Interface:** HTML and CSS
 
 ## Getting Started
